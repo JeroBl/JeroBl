@@ -9,14 +9,12 @@
   
 -  🤹🏻 Soft Skills: Team Work, dedication, comunication, autodidact, resilience, positive attitude
 
-- 📫 How to reach me **jeroblanco44@gmail.com**
 
 ## <br>Connect with me:</br>
 <p>
-<a href="https://www.linkedin.com/in/jeronimo-blanco-72a3a4261/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeronimo blanco" height="30" width="40" /></a>
-<a href="https://github.com/JeroBl" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jeronimo blanco" height="30" width="40" /></a>
-<a href = "jeroblanco44@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" target="_blank"></a>
-
+  <a href="https://www.linkedin.com/in/jeronimo-blanco-72a3a4261/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeronimo blanco" height="30" width="40" style="vertical-align: middle;" /></a>
+  <a href="https://github.com/JeroBl" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jeronimo blanco" height="30" width="40" style="vertical-align: middle;" /></a>
+  <a href="mailto:jeroblanco44@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" style="vertical-align: middle;" /></a>
 </p>
 
 ## <br>Frontend</br>
