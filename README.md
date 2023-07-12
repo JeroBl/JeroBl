@@ -12,10 +12,12 @@
 
 ## <br>Connect with me:</br>
 <p>
-  [![Linkedin: JeroBl](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/jeronimo-blanco-72a3a4261/)
-  <a href="https://github.com/JeroBl" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jeronimo blanco" height="30" width="40" style="vertical-align: middle;" /></a>
-  <a href="mailto:jeroblanco44@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" style="vertical-align: middle;" /></a>
+  <i class="devicon-linkedin-plain-wordmark colored"></i>
+[![Linkedin: JeroBl](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/jeronimo-blanco-72a3a4261/)
+<a href = "mail:jeroblanco44@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" target="_blank"></a>
 </p>
+
+
 
 ## <br>Frontend</br>
 <div>
