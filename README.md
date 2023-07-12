@@ -11,11 +11,11 @@
 
 
 ## <br>Connect with me:</br>
-<p>
+
   <i class="devicon-linkedin-plain-wordmark colored"></i>
 [![Linkedin: JeroBl](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/jeronimo-blanco-72a3a4261/)
 <a href = "mail:jeroblanco44@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" target="_blank"></a>
-</p>
+
 
 
 
