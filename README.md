@@ -4,12 +4,14 @@
 - 🔭 I’m currently working on [GameZone](https://front-gamezone-production.up.railway.app/home)
 
 - 🌱 I’m currently learning **new technologies**
+  
+-  🤹🏻 Soft Skills: Team Work, dedication, comunication, autodidact, resilience, positive attitude
 
 - 📫 How to reach me **jeroblanco44@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jeronimo blanco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeronimo blanco" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jeronimo-blanco-72a3a4261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeronimo blanco" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
