@@ -13,6 +13,7 @@
 <p>
 <a href="https://www.linkedin.com/in/jeronimo-blanco-72a3a4261/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeronimo blanco" height="30" width="40" /></a>
 <a href="https://github.com/JeroBl" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jeronimo blanco" height="30" width="40" /></a>
+<a href = "jeroblanco44@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" target="_blank"></a>
 
 </p>
 
@@ -49,8 +50,9 @@
 ## <br> 🕑 Historic:</br>
 <div>
   <a href="https://github.com/JeroBl">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JeroBl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeroBl&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JeroBl&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeroBl&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
 
 
