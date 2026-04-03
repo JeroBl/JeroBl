@@ -95,7 +95,7 @@ Automatización de llamadas con IA:
 
 ## 📫 Contacto
 
-- LinkedIn: https://www.linkedin.com/in/jeronimo-blanco
+- LinkedIn: https://www.linkedin.com/in/jeronimoblanco/
 - Email: jeroblanco44@gmail.com
 
 ---
