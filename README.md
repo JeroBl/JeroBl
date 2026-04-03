@@ -97,9 +97,3 @@ Automatización de llamadas con IA:
 
 - LinkedIn: https://www.linkedin.com/in/jeronimoblanco/
 - Email: jeroblanco44@gmail.com
-
----
-
-## 📈 GitHub Stats
-
-![JeroBl stats](https://github-readme-stats.vercel.app/api?username=JeroBl&show_icons=true)
