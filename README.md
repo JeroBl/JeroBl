@@ -1,61 +1,105 @@
-<h1>Hi 👋, I'm Jeronimo Blanco</h1>
-<h3>A passionate frontend developer from Argentina</h3>
+# 👋 Jerónimo Blanco
 
+Full Stack Developer especializado en backend, construyendo sistemas SaaS en producción utilizados por clientes reales.
 
+---
 
-- 🔭 I’m currently working on [GameZone](https://front-gamezone-production.up.railway.app/home)
+## 🚀 Sobre mí
 
-- 🌱 I’m currently learning **new technologies**
-  
--  🤹🏻 Soft Skills: Team Work, dedication, comunication, autodidact, resilience, positive attitude
+Desarrollador con +4 años de experiencia creando plataformas completas desde cero.  
+Trabajo principalmente con Node.js, React, PostgreSQL y AWS, enfocado en:
 
+- APIs escalables
+- Arquitectura de sistemas
+- Integración con servicios externos
+- Sistemas en producción con usuarios reales
 
-## <br>Connect with me:</br>
+He desarrollado soluciones en entornos exigentes como salud (DICOM/PACS) y automatización con IA.
 
-  <i class="devicon-linkedin-plain-wordmark colored"></i>
-[![Linkedin: JeroBl](https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)](https://www.linkedin.com/in/jeronimo-blanco-72a3a4261/)
-<a href = "mail:jeroblanco44@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" target="_blank"></a>
+---
 
+## 🧠 Proyecto destacado
 
+### 🏥 MedConnect (Healthcare SaaS)
 
+Plataforma médica en la nube utilizada por clínicas reales para la gestión de estudios de diagnóstico.
 
-## <br>Frontend</br>
-<div>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-</div>
+**Qué hace:**
 
-## <br>Backend</br>
-<div>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://sequelize.org/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="Sequelize" height="50" /></a>  
-</div>
+- Gestión de pacientes, turnos e historia clínica
+- Procesamiento y almacenamiento de estudios DICOM
+- Integración con equipos médicos reales
+- Sistema de informes y firma digital
+- Panel administrativo multiusuario
 
-## <br>DevOps</br>
-<div>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://trello.com/" target="_blank"><img style="margin: 10px" src="https://w7.pngwing.com/pngs/115/721/png-transparent-trello-social-icons-icon.png" alt="Trello" height="40" /></a>  
-</div>
+**Impacto:**
 
-</td></tr></table>  
+- +1500 interacciones médicas mensuales
+- Sistema en producción desde 2023
+- Usado por centros médicos reales
 
-<br/>  
+**Stack:**
+Node.js, Express, PostgreSQL, React, Next.js, AWS
 
-## <br> 🕑 Historic:</br>
-<div>
-  <a href="https://github.com/JeroBl">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JeroBl&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeroBl&layout=compact&langs_count=7&theme=default"/>
-</div>
+---
 
+## ⚙️ Stack principal
 
+**Backend**
 
+- Node.js
+- Express
+- APIs REST
+- Arquitectura de servicios
+
+**Frontend**
+
+- React
+- Next.js
+- Redux
+- Tailwind
+
+**Base de datos**
+
+- PostgreSQL
+- Modelado relacional
+- Optimización de queries
+
+**Cloud & DevOps**
+
+- AWS
+- Docker
+- Deploy en producción
+
+---
+
+## 📌 Otros proyectos
+
+### 📊 PaintManager
+
+Sistema de gestión para pinturerías con:
+
+- Inventario en tiempo real
+- Automatización de precios
+- Reportes financieros
+
+### 🤖 CallSmart AI
+
+Automatización de llamadas con IA:
+
+- Integración de LLMs y speech-to-text
+- Transcripción automática
+- Gestión de interacciones
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/jeronimo-blanco
+- Email: jeroblanco44@gmail.com
+
+---
+
+## 📈 GitHub Stats
+
+![JeroBl stats](https://github-readme-stats.vercel.app/api?username=JeroBl&show_icons=true)
